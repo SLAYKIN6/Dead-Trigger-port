@@ -1,6 +1,12 @@
+
+
 Dead Trigger - PortMaster Port
 
 A highly experimental and **extremely fragile** port of Dead Trigger 1 to ARM Linux handhelds (R36S and similar), built on top of [BinaryCounter's Bogodroid](https://github.com/binarycounter/Bogodroid) — a highly experimental framework for running NDK Android apps on ARM Linux.
+
+
+https://github.com/user-attachments/assets/5d4b6651-c2d9-4fda-a162-a6f35ad76c90
+
 
 
 ## ⚠️ SET BINDS LIKE THIS FOR OPTIMAL GAMEPLAY
