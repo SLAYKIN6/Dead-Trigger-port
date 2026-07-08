@@ -1,4 +1,4 @@
-<img width="3000" height="4000" alt="IMG20260708234501" src="https://github.com/user-attachments/assets/6b071484-4aa2-4d1f-b015-44834d7cbf24" /># Dead Trigger - PortMaster Port
+Dead Trigger - PortMaster Port
 
 A highly experimental and **extremely fragile** port of Dead Trigger 1 to ARM Linux handhelds (R36S and similar), built on top of [BinaryCounter's Bogodroid](https://github.com/binarycounter/Bogodroid) — a highly experimental framework for running NDK Android apps on ARM Linux.
 
@@ -13,7 +13,7 @@ move right= left stick right
 move up = left stick up (stops right stick movement glitches, should result in up and right like image below
 pause= start
 BUTTONS MAY HAVE TO BE REPEATEDLY INPUTTED UNTIL REGISTERED PROPERLY!
-[Uploading IMG20260708234501.jpg…]()
+<img width="640" height="480" alt="IMG20260708234501" src="https://github.com/user-attachments/assets/6b071484-4aa2-4d1f-b015-44834d7cbf24" /># 
 
 
 This port uses Bogodroid's `unityloader` shim to get the game's Unity runtime booting on-device. It works, but it is held together with duct tape and good intentions.
