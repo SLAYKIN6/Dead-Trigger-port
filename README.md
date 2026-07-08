@@ -13,7 +13,7 @@ move right= left stick right
 move up = left stick up (stops right stick movement glitches, should result in up and right like image below
 pause= start
 BUTTONS MAY HAVE TO BE REPEATEDLY INPUTTED UNTIL REGISTERED PROPERLY!
-<img width="640" height="480" alt="IMG20260708234501" src="https://github.com/user-attachments/assets/6b071484-4aa2-4d1f-b015-44834d7cbf24" /># 
+<img width="600" height="800" alt="IMG20260708234501" src="https://github.com/user-attachments/assets/6b071484-4aa2-4d1f-b015-44834d7cbf24" /># 
 
 
 This port uses Bogodroid's `unityloader` shim to get the game's Unity runtime booting on-device. It works, but it is held together with duct tape and good intentions.
